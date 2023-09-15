@@ -1,0 +1,5 @@
+urbanpy==0.2.2.dev0
+contextily
+ipykernel
+ipywidgets
+nbformat
